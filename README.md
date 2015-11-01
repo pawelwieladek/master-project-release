@@ -1,2 +1,2 @@
 # master-project-release
-Release repository for master project
+Release repository for master-project
